@@ -46,8 +46,9 @@ An Excel-based sales analysis of an online clothing store. I used pivot tables a
 - Store Data (cleaned raw data)
 
 ## Screenshots
+<img width="925" height="369" alt="excel dashboard project" src="https://github.com/user-attachments/assets/1d59096c-bb16-4352-beaf-64a8831de1df" />
 
-![Uploading excel dashboard project.png…]()
+
 
 ## Author
 
