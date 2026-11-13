@@ -1,4 +1,4 @@
-# Industrial Sensor Dashboard: Machine Downtime Analysis
+<img width="606" height="341" alt="powerbi_2" src="https://github.com/user-attachments/assets/538f0a19-45c8-4378-93a0-04ec64fcfccb" /># Industrial Sensor Dashboard: Machine Downtime Analysis
 
 A two-page Power BI dashboard that looks at sensor and production data from industrial machines. It shows where downtime happens, which machines and statuses cause it, and how temperature and vibration readings relate to risk.
 
@@ -6,11 +6,11 @@ A two-page Power BI dashboard that looks at sensor and production data from indu
 
 **Page 1: Industrial Dashboard**
 
-![Industrial Dashboard](images/powerbi_dashboard.png)
+<img width="605" height="343" alt="powerbi_1" src="https://github.com/user-attachments/assets/3fb437c3-a0ba-4ca9-ae9d-6096f831948c" />
 
-**Page 2: Trends**
+<img width="606" height="341" alt="powerbi_2" src="https://github.com/user-attachments/assets/fdf0b0ca-4777-4695-9d63-07603caf8139" />
 
-![Trends](images/powerbi_trends.png)
+
 
 ## Project Goal
 
