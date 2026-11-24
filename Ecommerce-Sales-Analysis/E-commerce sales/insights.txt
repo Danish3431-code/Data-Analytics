@@ -1,0 +1,7 @@
+Total orders: 1000
+Total sales: 76,509.18
+Best month:Nov
+Best category:Electronics
+Top product:Smartwatch
+Top region:North
+Winter sales drop: 31.8%
